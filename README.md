@@ -1,29 +1,61 @@
-Memoria Viva
+# 🧠 Memoria Viva
 
-Memoria Viva es una aplicación multiplataforma desarrollada con Flutter y respaldada por Supabase, diseñada para mejorar la calidad de vida de personas con deterioro cognitivo, como aquellas que presentan enfermedades neurodegenerativas o problemas de memoria relacionados con la edad.
+> **Memoria Viva es una plataforma de apoyo cognitivo que combina entrenamiento mental, asistencia diaria y seguimiento familiar para mejorar la calidad de vida de personas con deterioro cognitivo.**
 
-La aplicación se centra en dos áreas principales:
+**Memoria Viva** es una plataforma digital desarrollada con **Flutter** y **Supabase** que busca mejorar la calidad de vida de personas con deterioro cognitivo mediante herramientas de estimulación cognitiva, apoyo a la autonomía personal y acompañamiento por parte de familiares y cuidadores.
 
-🧠 Estimulación y entrenamiento cognitivo
-Ejercicios de memoria y atención.
-Actividades para fortalecer funciones cognitivas.
-Retos adaptados al nivel del usuario.
-Seguimiento del progreso y evolución.
-📅 Asistencia y rutinas diarias
-Recordatorios personalizados para medicamentos, citas y tareas.
-Gestión de rutinas diarias.
-Ayuda para mantener hábitos saludables y la independencia personal.
-Herramientas de orientación y apoyo en el día a día.
-👨‍👩‍👧 Conexión con familiares y cuidadores
+La aplicación combina ejercicios de entrenamiento mental con funcionalidades de asistencia diaria, creando un entorno accesible que ayuda a mantener las capacidades cognitivas, reforzar hábitos saludables y facilitar el seguimiento remoto de las personas usuarias.
 
-Gracias a la integración con Supabase, la información puede sincronizarse en tiempo real entre la persona usuaria y sus familiares o cuidadores, permitiendo:
+## 🚀 Visión
 
-Supervisar el cumplimiento de rutinas y recordatorios.
-Compartir información relevante de forma segura.
-Recibir actualizaciones sobre la actividad del usuario.
-Facilitar el acompañamiento y la atención remota.
-🎯 Objetivo
+Crear una solución tecnológica accesible que contribuya a preservar la independencia y el bienestar de las personas con deterioro cognitivo, fortaleciendo al mismo tiempo la conexión y colaboración con su red de apoyo.
 
-Contribuir a retrasar el deterioro cognitivo, fortalecer la memoria y otras capacidades mentales, fomentar la autonomía personal y ofrecer una herramienta de apoyo tanto para las personas afectadas como para su entorno familiar y de cuidados.
+## ✨ Funcionalidades principales
 
-Tecnologías: Flutter · Dart · Supabase · PostgreSQL · Autenticación y sincronización en tiempo real.
+### 🧩 Estimulación cognitiva
+
+Herramientas diseñadas para ejercitar y mantener las capacidades cognitivas mediante actividades interactivas y adaptadas a las necesidades de cada usuario.
+
+* Ejercicios de memoria, atención y concentración.
+* Actividades de estimulación cognitiva progresiva.
+* Seguimiento del rendimiento y evolución.
+* Experiencias adaptadas a distintos niveles de capacidad.
+
+### 📅 Asistencia en la vida diaria
+
+Funciones orientadas a fomentar la autonomía y reducir la dependencia en tareas cotidianas.
+
+* Recordatorios de medicación, citas y actividades importantes.
+* Gestión de rutinas y hábitos diarios.
+* Notificaciones inteligentes para tareas recurrentes.
+* Apoyo en la organización y planificación del día a día.
+
+### 👨‍👩‍👧‍👦 Ecosistema para cuidadores y familiares
+
+Integración en tiempo real mediante **Supabase** para mantener conectados a usuarios, familiares y cuidadores.
+
+* Sincronización de información entre dispositivos.
+* Supervisión del cumplimiento de rutinas y recordatorios.
+* Seguimiento de la actividad y progreso del usuario.
+* Comunicación y acompañamiento remoto.
+
+## 🎯 Propuesta de valor
+
+Memoria Viva aborda dos necesidades fundamentales en el ámbito del deterioro cognitivo:
+
+1. **Estimular y preservar las capacidades cognitivas** mediante actividades diseñadas para reforzar la memoria y otras funciones mentales.
+2. **Facilitar la vida diaria y la supervisión remota**, promoviendo la autonomía de la persona usuaria y reduciendo la carga de trabajo de familiares y cuidadores.
+
+## 🛠️ Stack tecnológico
+
+| Tecnología | Propósito                                              |
+| ---------- | ------------------------------------------------------ |
+| Flutter    | Desarrollo multiplataforma                             |
+| Dart       | Lógica de negocio y aplicación                         |
+| Supabase   | Backend, autenticación y sincronización en tiempo real |
+| PostgreSQL | Almacenamiento de datos                                |
+| Realtime   | Actualización instantánea entre usuarios y cuidadores  |
+
+## 🌍 Impacto
+
+El deterioro cognitivo representa uno de los mayores desafíos asociados al envejecimiento de la población. Memoria Viva busca aprovechar la tecnología para ofrecer una herramienta práctica, accesible y centrada en las personas, que contribuya a mantener la autonomía, fortalecer la estimulación cognitiva y mejorar la calidad de vida tanto de los usuarios como de quienes les acompañan en su día a día.
